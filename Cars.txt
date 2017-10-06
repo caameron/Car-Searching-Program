@@ -1,0 +1,4 @@
+Lexus,2017 IS@37825@Black@Sports@Gas,2017 GS@46310@White@Sports@Gas,2017 RX@28452@Green@Minivan@Electric
+Honda,Civic Sedan@18740@Blue@Regular Four Door@Gas,Accord@29036@Black@Regular Four Door@Hybrid,Clarity@27052@Red@Regular Two Door@Electric,Civic Coupe@15250@Orange@Regular Two Door@Gas
+Toyota,Yaris@15250@White@Regular Four Door@Gas,Corolla@20000@Blue@Regular Four Door@Hybrid,Prius@23450@Green@Regular Four Door@Hybrid,Tocoma@32500@Black@Truck@Gas
+Ford,Focus@18340@Red@Sports@Gas,Escape@28900@White@Minivan@Gas,Mustang@40000@Blue@Luxory@Gas,F-150@32540@Blue@Truck@Gas,Explorer@45020@Red@Truck@Gas,Flex@36040@Black@Minivan@Hybrid

@@ -1,0 +1,3 @@
+Red,Blue,Orange,Green,Black,White,White/Black
+Regular Two Door,Regular Four Door,Station Wagon,Minivan,Sports,Truck,Luxury
+Electric,Hybrid,Gas,Diesel,Premium
